@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "ampapp2cec48b5": {}
+      },
+      "api": {
+        "ampapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
